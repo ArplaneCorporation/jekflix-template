@@ -1,5 +1,5 @@
 # Site Settings
-name: Jekflix
+name: ChayapholSmile Blog
 title: Jekflix | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -110,4 +110,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: beta
